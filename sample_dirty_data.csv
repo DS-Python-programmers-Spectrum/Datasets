@@ -1,0 +1,8 @@
+Name,Age,City,Gender,JoinDate
+ Alice ,25.0,New York,F,2022-01-01
+bob,,los angeles,M,2022/02/15
+Charlie,35.0,,M,15-03-2022
+BOB,30.0,Los Angeles,M,2022-04-10
+Eve,29.0,Chicago,F,
+,40.0,Chicago,,2022-05-01
+Alice ,25.0,New York,F,2022-01-01
